@@ -1,5 +1,4 @@
 # CutImage
-Cut image by line
-The test file.
+Cut image by line,just study for image.
 
 
